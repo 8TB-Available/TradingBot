@@ -13,13 +13,11 @@
 
 
 4) Scaricare il gestore dei pacchetti di python:
-   nel prompt dei commandi (dopo l'installazione) scarica PIP:
-   "python get-pip.py", è un gestore di pacchetti e sarà molto utile per gestire le librerie che ora andremo a scaricare.
+   nel prompt dei commandi (dopo l'installazione) scarica PIP "python get-pip.py", è un gestore di pacchetti e sarà molto utile per gestire le librerie che ora andremo a scaricare.
 
 
 5) Scaricare le librerie:
-   nel prompt dei commandi inserire questo codice:
-   "pip install numpy pandas python-binance".
+   nel prompt dei commandi inserire questo codice "pip install numpy pandas python-binance".
    
 
 
