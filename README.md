@@ -1,1 +1,1 @@
-# TradingBot
+# Tradin
